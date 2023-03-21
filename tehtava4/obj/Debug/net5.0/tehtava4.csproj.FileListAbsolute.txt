@@ -1,0 +1,16 @@
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\obj\Debug\net5.0\tehtava4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\obj\Debug\net5.0\tehtava4.AssemblyInfoInputs.cache
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\obj\Debug\net5.0\tehtava4.AssemblyInfo.cs
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\obj\Debug\net5.0\tehtava4.csproj.CoreCompileInputs.cache
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\bin\Debug\net5.0\tehtava4.exe
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\bin\Debug\net5.0\tehtava4.deps.json
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\bin\Debug\net5.0\tehtava4.runtimeconfig.json
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\bin\Debug\net5.0\tehtava4.runtimeconfig.dev.json
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\bin\Debug\net5.0\tehtava4.dll
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\bin\Debug\net5.0\ref\tehtava4.dll
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\bin\Debug\net5.0\tehtava4.pdb
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\obj\Debug\net5.0\tehtava4.dll
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\obj\Debug\net5.0\ref\tehtava4.dll
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\obj\Debug\net5.0\tehtava4.pdb
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\obj\Debug\net5.0\tehtava4.genruntimeconfig.cache
+C:\Users\mikko.lepisto\source\repos\tehtava4\tehtava4\obj\Debug\net5.0\tehtava4.csprojAssemblyReference.cache
