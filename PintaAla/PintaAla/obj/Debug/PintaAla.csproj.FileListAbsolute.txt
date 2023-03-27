@@ -1,0 +1,5 @@
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\PintaAla\PintaAla\bin\Debug\PintaAla.exe.config
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\PintaAla\PintaAla\bin\Debug\PintaAla.exe
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\PintaAla\PintaAla\bin\Debug\PintaAla.pdb
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\PintaAla\PintaAla\obj\Debug\PintaAla.exe
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\PintaAla\PintaAla\obj\Debug\PintaAla.pdb

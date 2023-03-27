@@ -1,0 +1,6 @@
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\Opetuspaiva2\Opetuspaiva2\bin\Debug\Opetuspaiva2.exe.config
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\Opetuspaiva2\Opetuspaiva2\bin\Debug\Opetuspaiva2.exe
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\Opetuspaiva2\Opetuspaiva2\bin\Debug\Opetuspaiva2.pdb
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\Opetuspaiva2\Opetuspaiva2\obj\Debug\Opetuspaiva2.csprojResolveAssemblyReference.cache
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\Opetuspaiva2\Opetuspaiva2\obj\Debug\Opetuspaiva2.exe
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\Opetuspaiva2\Opetuspaiva2\obj\Debug\Opetuspaiva2.pdb
