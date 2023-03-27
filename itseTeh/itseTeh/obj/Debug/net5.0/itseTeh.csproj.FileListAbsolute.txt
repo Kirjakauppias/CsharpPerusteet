@@ -1,0 +1,16 @@
+C:\Users\metar\source\repos\itseTeh\itseTeh\obj\Debug\net5.0\itseTeh.csproj.AssemblyReference.cache
+C:\Users\metar\source\repos\itseTeh\itseTeh\obj\Debug\net5.0\itseTeh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metar\source\repos\itseTeh\itseTeh\obj\Debug\net5.0\itseTeh.AssemblyInfoInputs.cache
+C:\Users\metar\source\repos\itseTeh\itseTeh\obj\Debug\net5.0\itseTeh.AssemblyInfo.cs
+C:\Users\metar\source\repos\itseTeh\itseTeh\obj\Debug\net5.0\itseTeh.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\itseTeh\itseTeh\bin\Debug\net5.0\itseTeh.exe
+C:\Users\metar\source\repos\itseTeh\itseTeh\bin\Debug\net5.0\itseTeh.deps.json
+C:\Users\metar\source\repos\itseTeh\itseTeh\bin\Debug\net5.0\itseTeh.runtimeconfig.json
+C:\Users\metar\source\repos\itseTeh\itseTeh\bin\Debug\net5.0\itseTeh.runtimeconfig.dev.json
+C:\Users\metar\source\repos\itseTeh\itseTeh\bin\Debug\net5.0\itseTeh.dll
+C:\Users\metar\source\repos\itseTeh\itseTeh\bin\Debug\net5.0\ref\itseTeh.dll
+C:\Users\metar\source\repos\itseTeh\itseTeh\bin\Debug\net5.0\itseTeh.pdb
+C:\Users\metar\source\repos\itseTeh\itseTeh\obj\Debug\net5.0\itseTeh.dll
+C:\Users\metar\source\repos\itseTeh\itseTeh\obj\Debug\net5.0\ref\itseTeh.dll
+C:\Users\metar\source\repos\itseTeh\itseTeh\obj\Debug\net5.0\itseTeh.pdb
+C:\Users\metar\source\repos\itseTeh\itseTeh\obj\Debug\net5.0\itseTeh.genruntimeconfig.cache
