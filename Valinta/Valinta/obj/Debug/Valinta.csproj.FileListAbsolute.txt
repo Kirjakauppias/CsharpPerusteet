@@ -1,0 +1,6 @@
+C:\Users\mikko.lepisto\Documents\GitHub\Valinta\Valinta\bin\Debug\Valinta.exe.config
+C:\Users\mikko.lepisto\Documents\GitHub\Valinta\Valinta\bin\Debug\Valinta.exe
+C:\Users\mikko.lepisto\Documents\GitHub\Valinta\Valinta\bin\Debug\Valinta.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\Valinta\Valinta\obj\Debug\Valinta.csprojResolveAssemblyReference.cache
+C:\Users\mikko.lepisto\Documents\GitHub\Valinta\Valinta\obj\Debug\Valinta.exe
+C:\Users\mikko.lepisto\Documents\GitHub\Valinta\Valinta\obj\Debug\Valinta.pdb

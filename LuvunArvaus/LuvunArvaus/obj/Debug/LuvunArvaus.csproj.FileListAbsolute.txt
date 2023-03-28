@@ -1,0 +1,5 @@
+C:\Users\mikko.lepisto\Documents\GitHub\LuvunArvaus\LuvunArvaus\bin\Debug\LuvunArvaus.exe.config
+C:\Users\mikko.lepisto\Documents\GitHub\LuvunArvaus\LuvunArvaus\bin\Debug\LuvunArvaus.exe
+C:\Users\mikko.lepisto\Documents\GitHub\LuvunArvaus\LuvunArvaus\bin\Debug\LuvunArvaus.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\LuvunArvaus\LuvunArvaus\obj\Debug\LuvunArvaus.exe
+C:\Users\mikko.lepisto\Documents\GitHub\LuvunArvaus\LuvunArvaus\obj\Debug\LuvunArvaus.pdb
