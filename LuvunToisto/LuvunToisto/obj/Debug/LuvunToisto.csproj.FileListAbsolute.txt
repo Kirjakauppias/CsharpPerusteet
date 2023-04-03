@@ -1,0 +1,6 @@
+C:\Users\metar\source\repos\LuvunToisto\LuvunToisto\bin\Debug\LuvunToisto.exe.config
+C:\Users\metar\source\repos\LuvunToisto\LuvunToisto\bin\Debug\LuvunToisto.exe
+C:\Users\metar\source\repos\LuvunToisto\LuvunToisto\bin\Debug\LuvunToisto.pdb
+C:\Users\metar\source\repos\LuvunToisto\LuvunToisto\obj\Debug\LuvunToisto.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\LuvunToisto\LuvunToisto\obj\Debug\LuvunToisto.exe
+C:\Users\metar\source\repos\LuvunToisto\LuvunToisto\obj\Debug\LuvunToisto.pdb

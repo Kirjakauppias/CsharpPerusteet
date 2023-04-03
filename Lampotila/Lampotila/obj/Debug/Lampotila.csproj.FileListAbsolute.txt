@@ -1,0 +1,7 @@
+C:\Users\metar\source\repos\Lampotila\Lampotila\bin\Debug\Lampotila.exe.config
+C:\Users\metar\source\repos\Lampotila\Lampotila\bin\Debug\Lampotila.exe
+C:\Users\metar\source\repos\Lampotila\Lampotila\bin\Debug\Lampotila.pdb
+C:\Users\metar\source\repos\Lampotila\Lampotila\obj\Debug\Lampotila.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\Lampotila\Lampotila\obj\Debug\Lampotila.exe
+C:\Users\metar\source\repos\Lampotila\Lampotila\obj\Debug\Lampotila.pdb
+C:\Users\metar\source\repos\Lampotila\Lampotila\obj\Debug\Lampotila.csproj.AssemblyReference.cache

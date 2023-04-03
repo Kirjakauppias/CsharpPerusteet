@@ -1,0 +1,7 @@
+C:\Users\metar\source\repos\Pariton\Pariton\bin\Debug\Pariton.exe.config
+C:\Users\metar\source\repos\Pariton\Pariton\bin\Debug\Pariton.exe
+C:\Users\metar\source\repos\Pariton\Pariton\bin\Debug\Pariton.pdb
+C:\Users\metar\source\repos\Pariton\Pariton\obj\Debug\Pariton.csproj.AssemblyReference.cache
+C:\Users\metar\source\repos\Pariton\Pariton\obj\Debug\Pariton.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\Pariton\Pariton\obj\Debug\Pariton.exe
+C:\Users\metar\source\repos\Pariton\Pariton\obj\Debug\Pariton.pdb
