@@ -1,0 +1,5 @@
+C:\Users\mikko.lepisto\Documents\GitHub\IanTarkistus\IanTarkistus\bin\Debug\IanTarkistus.exe.config
+C:\Users\mikko.lepisto\Documents\GitHub\IanTarkistus\IanTarkistus\bin\Debug\IanTarkistus.exe
+C:\Users\mikko.lepisto\Documents\GitHub\IanTarkistus\IanTarkistus\bin\Debug\IanTarkistus.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\IanTarkistus\IanTarkistus\obj\Debug\IanTarkistus.exe
+C:\Users\mikko.lepisto\Documents\GitHub\IanTarkistus\IanTarkistus\obj\Debug\IanTarkistus.pdb

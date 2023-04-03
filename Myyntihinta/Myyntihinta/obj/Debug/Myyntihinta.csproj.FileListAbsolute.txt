@@ -1,0 +1,6 @@
+C:\Users\mikko.lepisto\Documents\GitHub\Myyntihinta\Myyntihinta\bin\Debug\Myyntihinta.exe.config
+C:\Users\mikko.lepisto\Documents\GitHub\Myyntihinta\Myyntihinta\obj\Debug\Myyntihinta.csprojResolveAssemblyReference.cache
+C:\Users\mikko.lepisto\Documents\GitHub\Myyntihinta\Myyntihinta\bin\Debug\Myyntihinta.exe
+C:\Users\mikko.lepisto\Documents\GitHub\Myyntihinta\Myyntihinta\bin\Debug\Myyntihinta.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\Myyntihinta\Myyntihinta\obj\Debug\Myyntihinta.exe
+C:\Users\mikko.lepisto\Documents\GitHub\Myyntihinta\Myyntihinta\obj\Debug\Myyntihinta.pdb

@@ -1,0 +1,6 @@
+C:\Users\mikko.lepisto\Documents\GitHub\Lisatyo\Lisatyo\bin\Debug\Lisatyo.exe.config
+C:\Users\mikko.lepisto\Documents\GitHub\Lisatyo\Lisatyo\bin\Debug\Lisatyo.exe
+C:\Users\mikko.lepisto\Documents\GitHub\Lisatyo\Lisatyo\bin\Debug\Lisatyo.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\Lisatyo\Lisatyo\obj\Debug\Lisatyo.csprojResolveAssemblyReference.cache
+C:\Users\mikko.lepisto\Documents\GitHub\Lisatyo\Lisatyo\obj\Debug\Lisatyo.exe
+C:\Users\mikko.lepisto\Documents\GitHub\Lisatyo\Lisatyo\obj\Debug\Lisatyo.pdb

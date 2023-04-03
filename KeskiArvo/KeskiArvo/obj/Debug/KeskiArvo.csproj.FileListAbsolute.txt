@@ -1,0 +1,6 @@
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\KeskiArvo\KeskiArvo\bin\Debug\KeskiArvo.exe.config
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\KeskiArvo\KeskiArvo\obj\Debug\KeskiArvo.csprojResolveAssemblyReference.cache
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\KeskiArvo\KeskiArvo\bin\Debug\KeskiArvo.exe
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\KeskiArvo\KeskiArvo\bin\Debug\KeskiArvo.pdb
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\KeskiArvo\KeskiArvo\obj\Debug\KeskiArvo.exe
+c:\users\mikko.lepisto\documents\visual studio 2015\Projects\KeskiArvo\KeskiArvo\obj\Debug\KeskiArvo.pdb
