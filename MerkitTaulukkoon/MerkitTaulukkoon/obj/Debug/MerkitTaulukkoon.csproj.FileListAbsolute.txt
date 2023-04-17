@@ -1,0 +1,7 @@
+C:\Users\metar\source\repos\MerkitTaulukkoon\MerkitTaulukkoon\bin\Debug\MerkitTaulukkoon.exe.config
+C:\Users\metar\source\repos\MerkitTaulukkoon\MerkitTaulukkoon\bin\Debug\MerkitTaulukkoon.exe
+C:\Users\metar\source\repos\MerkitTaulukkoon\MerkitTaulukkoon\bin\Debug\MerkitTaulukkoon.pdb
+C:\Users\metar\source\repos\MerkitTaulukkoon\MerkitTaulukkoon\obj\Debug\MerkitTaulukkoon.csproj.AssemblyReference.cache
+C:\Users\metar\source\repos\MerkitTaulukkoon\MerkitTaulukkoon\obj\Debug\MerkitTaulukkoon.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\MerkitTaulukkoon\MerkitTaulukkoon\obj\Debug\MerkitTaulukkoon.exe
+C:\Users\metar\source\repos\MerkitTaulukkoon\MerkitTaulukkoon\obj\Debug\MerkitTaulukkoon.pdb

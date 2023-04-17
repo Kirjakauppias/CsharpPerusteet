@@ -1,0 +1,7 @@
+C:\Users\metar\source\repos\MerkkienMaara\MerkkienMaara\bin\Debug\MerkkienMaara.exe.config
+C:\Users\metar\source\repos\MerkkienMaara\MerkkienMaara\bin\Debug\MerkkienMaara.exe
+C:\Users\metar\source\repos\MerkkienMaara\MerkkienMaara\bin\Debug\MerkkienMaara.pdb
+C:\Users\metar\source\repos\MerkkienMaara\MerkkienMaara\obj\Debug\MerkkienMaara.csproj.AssemblyReference.cache
+C:\Users\metar\source\repos\MerkkienMaara\MerkkienMaara\obj\Debug\MerkkienMaara.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\MerkkienMaara\MerkkienMaara\obj\Debug\MerkkienMaara.exe
+C:\Users\metar\source\repos\MerkkienMaara\MerkkienMaara\obj\Debug\MerkkienMaara.pdb

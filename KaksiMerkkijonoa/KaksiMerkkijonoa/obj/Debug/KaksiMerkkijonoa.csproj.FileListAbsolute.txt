@@ -1,0 +1,7 @@
+C:\Users\metar\source\repos\KaksiMerkkijonoa\KaksiMerkkijonoa\bin\Debug\KaksiMerkkijonoa.exe.config
+C:\Users\metar\source\repos\KaksiMerkkijonoa\KaksiMerkkijonoa\bin\Debug\KaksiMerkkijonoa.exe
+C:\Users\metar\source\repos\KaksiMerkkijonoa\KaksiMerkkijonoa\bin\Debug\KaksiMerkkijonoa.pdb
+C:\Users\metar\source\repos\KaksiMerkkijonoa\KaksiMerkkijonoa\obj\Debug\KaksiMerkkijonoa.csproj.AssemblyReference.cache
+C:\Users\metar\source\repos\KaksiMerkkijonoa\KaksiMerkkijonoa\obj\Debug\KaksiMerkkijonoa.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\KaksiMerkkijonoa\KaksiMerkkijonoa\obj\Debug\KaksiMerkkijonoa.exe
+C:\Users\metar\source\repos\KaksiMerkkijonoa\KaksiMerkkijonoa\obj\Debug\KaksiMerkkijonoa.pdb

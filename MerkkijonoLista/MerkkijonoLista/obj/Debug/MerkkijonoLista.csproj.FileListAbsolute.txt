@@ -1,0 +1,7 @@
+C:\Users\metar\source\repos\MerkkijonoLista\MerkkijonoLista\bin\Debug\MerkkijonoLista.exe.config
+C:\Users\metar\source\repos\MerkkijonoLista\MerkkijonoLista\bin\Debug\MerkkijonoLista.exe
+C:\Users\metar\source\repos\MerkkijonoLista\MerkkijonoLista\bin\Debug\MerkkijonoLista.pdb
+C:\Users\metar\source\repos\MerkkijonoLista\MerkkijonoLista\obj\Debug\MerkkijonoLista.csproj.AssemblyReference.cache
+C:\Users\metar\source\repos\MerkkijonoLista\MerkkijonoLista\obj\Debug\MerkkijonoLista.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\MerkkijonoLista\MerkkijonoLista\obj\Debug\MerkkijonoLista.exe
+C:\Users\metar\source\repos\MerkkijonoLista\MerkkijonoLista\obj\Debug\MerkkijonoLista.pdb

@@ -1,0 +1,7 @@
+C:\Users\metar\source\repos\EtsiVokaaleja\EtsiVokaaleja\bin\Debug\EtsiVokaaleja.exe.config
+C:\Users\metar\source\repos\EtsiVokaaleja\EtsiVokaaleja\bin\Debug\EtsiVokaaleja.exe
+C:\Users\metar\source\repos\EtsiVokaaleja\EtsiVokaaleja\bin\Debug\EtsiVokaaleja.pdb
+C:\Users\metar\source\repos\EtsiVokaaleja\EtsiVokaaleja\obj\Debug\EtsiVokaaleja.csproj.AssemblyReference.cache
+C:\Users\metar\source\repos\EtsiVokaaleja\EtsiVokaaleja\obj\Debug\EtsiVokaaleja.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\EtsiVokaaleja\EtsiVokaaleja\obj\Debug\EtsiVokaaleja.exe
+C:\Users\metar\source\repos\EtsiVokaaleja\EtsiVokaaleja\obj\Debug\EtsiVokaaleja.pdb

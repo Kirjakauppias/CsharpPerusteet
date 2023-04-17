@@ -1,0 +1,6 @@
+C:\Users\metar\source\repos\LampotilanSeuranta\LampotilanSeuranta\bin\Debug\LampotilanSeuranta.exe.config
+C:\Users\metar\source\repos\LampotilanSeuranta\LampotilanSeuranta\bin\Debug\LampotilanSeuranta.exe
+C:\Users\metar\source\repos\LampotilanSeuranta\LampotilanSeuranta\bin\Debug\LampotilanSeuranta.pdb
+C:\Users\metar\source\repos\LampotilanSeuranta\LampotilanSeuranta\obj\Debug\LampotilanSeuranta.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\LampotilanSeuranta\LampotilanSeuranta\obj\Debug\LampotilanSeuranta.exe
+C:\Users\metar\source\repos\LampotilanSeuranta\LampotilanSeuranta\obj\Debug\LampotilanSeuranta.pdb
