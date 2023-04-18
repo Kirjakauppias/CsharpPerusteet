@@ -5,3 +5,9 @@ C:\Users\metar\source\repos\ToistoParillinen\ToistoParillinen\obj\Debug\ToistoPa
 C:\Users\metar\source\repos\ToistoParillinen\ToistoParillinen\obj\Debug\ToistoParillinen.csproj.CoreCompileInputs.cache
 C:\Users\metar\source\repos\ToistoParillinen\ToistoParillinen\obj\Debug\ToistoParillinen.exe
 C:\Users\metar\source\repos\ToistoParillinen\ToistoParillinen\obj\Debug\ToistoParillinen.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\ToistoParillinen\ToistoParillinen\bin\Debug\ToistoParillinen.exe.config
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\ToistoParillinen\ToistoParillinen\obj\Debug\ToistoParillinen.exe
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\ToistoParillinen\ToistoParillinen\obj\Debug\ToistoParillinen.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\ToistoParillinen\ToistoParillinen\bin\Debug\ToistoParillinen.exe
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\ToistoParillinen\ToistoParillinen\bin\Debug\ToistoParillinen.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\ToistoParillinen\ToistoParillinen\obj\Debug\ToistoParillinen.csprojResolveAssemblyReference.cache
