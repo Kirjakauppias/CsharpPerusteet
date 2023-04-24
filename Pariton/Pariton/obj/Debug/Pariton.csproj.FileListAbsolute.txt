@@ -5,3 +5,9 @@ C:\Users\metar\source\repos\Pariton\Pariton\obj\Debug\Pariton.csproj.AssemblyRef
 C:\Users\metar\source\repos\Pariton\Pariton\obj\Debug\Pariton.csproj.CoreCompileInputs.cache
 C:\Users\metar\source\repos\Pariton\Pariton\obj\Debug\Pariton.exe
 C:\Users\metar\source\repos\Pariton\Pariton\obj\Debug\Pariton.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\Pariton\Pariton\bin\Debug\Pariton.exe.config
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\Pariton\Pariton\obj\Debug\Pariton.exe
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\Pariton\Pariton\obj\Debug\Pariton.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\Pariton\Pariton\obj\Debug\Pariton.csprojResolveAssemblyReference.cache
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\Pariton\Pariton\bin\Debug\Pariton.exe
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\Pariton\Pariton\bin\Debug\Pariton.pdb

@@ -5,3 +5,6 @@ C:\Users\metar\source\repos\Lampotila\Lampotila\obj\Debug\Lampotila.csproj.CoreC
 C:\Users\metar\source\repos\Lampotila\Lampotila\obj\Debug\Lampotila.exe
 C:\Users\metar\source\repos\Lampotila\Lampotila\obj\Debug\Lampotila.pdb
 C:\Users\metar\source\repos\Lampotila\Lampotila\obj\Debug\Lampotila.csproj.AssemblyReference.cache
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\Lampotila\Lampotila\bin\Debug\Lampotila.exe.config
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\Lampotila\Lampotila\obj\Debug\Lampotila.exe
+C:\Users\mikko.lepisto\Documents\GitHub\CsharpPerusteet\Lampotila\Lampotila\obj\Debug\Lampotila.pdb
