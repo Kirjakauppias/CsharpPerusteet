@@ -1,0 +1,7 @@
+C:\Users\metar\source\repos\LampotilanMuunnin\LampotilanMuunnin\bin\Debug\LampotilanMuunnin.exe.config
+C:\Users\metar\source\repos\LampotilanMuunnin\LampotilanMuunnin\bin\Debug\LampotilanMuunnin.exe
+C:\Users\metar\source\repos\LampotilanMuunnin\LampotilanMuunnin\bin\Debug\LampotilanMuunnin.pdb
+C:\Users\metar\source\repos\LampotilanMuunnin\LampotilanMuunnin\obj\Debug\LampotilanMuunnin.csproj.AssemblyReference.cache
+C:\Users\metar\source\repos\LampotilanMuunnin\LampotilanMuunnin\obj\Debug\LampotilanMuunnin.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\LampotilanMuunnin\LampotilanMuunnin\obj\Debug\LampotilanMuunnin.exe
+C:\Users\metar\source\repos\LampotilanMuunnin\LampotilanMuunnin\obj\Debug\LampotilanMuunnin.pdb

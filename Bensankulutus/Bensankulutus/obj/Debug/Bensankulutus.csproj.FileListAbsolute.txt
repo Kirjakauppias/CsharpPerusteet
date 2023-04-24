@@ -1,0 +1,7 @@
+C:\Users\metar\source\repos\Bensankulutus\Bensankulutus\bin\Debug\Bensankulutus.exe.config
+C:\Users\metar\source\repos\Bensankulutus\Bensankulutus\bin\Debug\Bensankulutus.exe
+C:\Users\metar\source\repos\Bensankulutus\Bensankulutus\bin\Debug\Bensankulutus.pdb
+C:\Users\metar\source\repos\Bensankulutus\Bensankulutus\obj\Debug\Bensankulutus.csproj.AssemblyReference.cache
+C:\Users\metar\source\repos\Bensankulutus\Bensankulutus\obj\Debug\Bensankulutus.csproj.CoreCompileInputs.cache
+C:\Users\metar\source\repos\Bensankulutus\Bensankulutus\obj\Debug\Bensankulutus.exe
+C:\Users\metar\source\repos\Bensankulutus\Bensankulutus\obj\Debug\Bensankulutus.pdb
